@@ -1,4 +1,4 @@
-name: Multimedia-fugacity-models-Level2
+name: Multimedia-fugacity-models-forTeaching_Level2
 channels:
   - anaconda
   - conda-forge
